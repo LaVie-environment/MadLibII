@@ -1,0 +1,1 @@
+A program that generates Mad Libs paragraphs from template files.
