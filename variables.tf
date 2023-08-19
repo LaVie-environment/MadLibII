@@ -13,3 +13,8 @@ variable "words" {
         error_message = "At least 20 nouns must be supplied."
     }
 }
+
+variable "num_files" {
+    default = 100
+    type = number
+}
